@@ -1,0 +1,22 @@
+D:\Development\C#\UnMerge ASN Report\UnMerge ASN Report\obj\Release\UnMerge ASN Report.csprojAssemblyReference.cache
+D:\Development\C#\UnMerge ASN Report\UnMerge ASN Report\obj\Release\Assets\Unilever.baml
+D:\Development\C#\UnMerge ASN Report\UnMerge ASN Report\obj\Release\App.g.cs
+D:\Development\C#\UnMerge ASN Report\UnMerge ASN Report\obj\Release\MainWindow.g.cs
+D:\Development\C#\UnMerge ASN Report\UnMerge ASN Report\obj\Release\UnMerge ASN Report_Content.g.cs
+D:\Development\C#\UnMerge ASN Report\UnMerge ASN Report\obj\Release\UnMerge ASN Report_MarkupCompile.cache
+D:\Development\C#\UnMerge ASN Report\UnMerge ASN Report\obj\Release\UnMerge ASN Report_MarkupCompile.lref
+D:\Development\C#\UnMerge ASN Report\UnMerge ASN Report\bin\Release\UnMerge ASN Report.exe.config
+D:\Development\C#\UnMerge ASN Report\UnMerge ASN Report\bin\Release\UnMerge ASN Report.exe
+D:\Development\C#\UnMerge ASN Report\UnMerge ASN Report\bin\Release\UnMerge ASN Report.pdb
+D:\Development\C#\UnMerge ASN Report\UnMerge ASN Report\bin\Release\EPPlus.dll
+D:\Development\C#\UnMerge ASN Report\UnMerge ASN Report\bin\Release\Xceed.Wpf.Toolkit.dll
+D:\Development\C#\UnMerge ASN Report\UnMerge ASN Report\bin\Release\EPPlus.xml
+D:\Development\C#\UnMerge ASN Report\UnMerge ASN Report\obj\Release\App.baml
+D:\Development\C#\UnMerge ASN Report\UnMerge ASN Report\obj\Release\MainWindow.baml
+D:\Development\C#\UnMerge ASN Report\UnMerge ASN Report\obj\Release\UnMerge ASN Report.g.resources
+D:\Development\C#\UnMerge ASN Report\UnMerge ASN Report\obj\Release\UnMerge_ASN_Report.Properties.Resources.resources
+D:\Development\C#\UnMerge ASN Report\UnMerge ASN Report\obj\Release\UnMerge ASN Report.csproj.GenerateResource.cache
+D:\Development\C#\UnMerge ASN Report\UnMerge ASN Report\obj\Release\UnMerge ASN Report.csproj.CoreCompileInputs.cache
+D:\Development\C#\UnMerge ASN Report\UnMerge ASN Report\obj\Release\UnMerge ASN Report.csproj.CopyComplete
+D:\Development\C#\UnMerge ASN Report\UnMerge ASN Report\obj\Release\UnMerge ASN Report.exe
+D:\Development\C#\UnMerge ASN Report\UnMerge ASN Report\obj\Release\UnMerge ASN Report.pdb
